@@ -1,6 +1,10 @@
+// All of the code written by Sai Charan.
+// This is the index page of Credits Management System.
+
 <!DOCTYPE html>
 <html>
 <head>
+	//The head tag that includes all of the connection to bootstrap and to css of this page.
 	<title>Credits Distribution</title>
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,7 +15,7 @@
 </head>
 <body>
 
-	
+//This code is for the header of the page.	
 <nav class="navbar navbar-expand-sm bg-primary navbar-dark">
   <ul class="navbar-nav">
     <li class="nav-item active">
@@ -20,6 +24,8 @@
   </ul>
 </nav>
 
+	//This code is to create the box like elements in the content area. Like creating two of them with different classes.
+//1st one.	
 <div class = "box">
 <div class="card" style="width:300px ; height: 450px">
   <img class="card-img-top" src="https://img.freepik.com/free-vector/decorative-social-media-business-blog-users-profile-avatar-trendy-hairstyle-design-icons-collection-isolated-flat-vector-illustration_1284-2399.jpg?size=338&ext=jpg" alt="Card image">
@@ -32,7 +38,7 @@
   </div>
 </div>
 
-
+//2nd one
 <div class="card" style="width:300px ; height: 450px">
   <img class="card-img-top" src="https://image.freepik.com/free-vector/file-transfer-concept-illustration_114360-580.jpg" alt="Card image">
   <div class="card-body">
